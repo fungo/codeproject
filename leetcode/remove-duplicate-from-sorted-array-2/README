@@ -1,0 +1,8 @@
+maybe there is something wrong with the testcase
+
+judge large always one case is wrong
+
+[-3,-3,-2,-1,-1,0,0,0,0,0]	[-3,-3,-2,-1,-1,0]	[-3,-3,-2,-1,-1,0,0]	
+   
+[-3,-3,-2]	[-3,-3,-2]	[-3,-3,-2]	
+  
